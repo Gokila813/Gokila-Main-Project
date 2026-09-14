@@ -43,17 +43,16 @@ This project focuses on analysing a Diabetes Health Dataset containing 5,000 pat
 
 ## Help
 
-Common issues may include missing values, inconsistent category names, date-format problems, and large datasets affecting Power BI performance.
+* Common issues may include missing values, inconsistent category names, date-format problems, and large datasets affecting Power BI performance.
 
 * Check the dataset column names before running the analysis.
 * Ensure date columns are correctly formatted.
 * Handle missing values before creating visualizations.
 * Refresh the Power BI dataset after making changes to the source data.
 * Use filters and Top N options when displaying large numbers of categories.
-```
+
 ## Authors
 Gokila D 
-[@GokilaD](gokilasingai813@gmail.com)
 
 ## Version History
 
